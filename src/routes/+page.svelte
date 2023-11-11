@@ -1,21 +1,21 @@
 <div>
 	<div class="relative isolate px-6 pt-14 lg:px-8">
 		<div class="mx-auto max-w-2xl py-32 sm:py-48">
-			<div class="text-start sm:text-center flex flex-col items-center">
+			<div class="flex flex-col items-center text-start sm:text-center">
 				<h1 class="text-5xl font-bold tracking-tight text-white sm:text-7xl">
 					Lorem ipsum dolor sit consectetur
 				</h1>
 				<p
-					class="mx-auto mt-2 max-w-xl text-start sm:text-center text-md sm:text-lg leading-8 text-gray-300"
+					class="text-md mx-auto mt-2 max-w-xl text-start leading-8 text-gray-300 sm:text-center sm:text-lg"
 				>
 					Reprehenderit ad esse et non officia in nulla. Id proident tempor incididunt nostrud nulla
 					et culpa.
 				</p>
 
 				<form
-					class="mx-auto mt-10 max-w-xl text-center text-lg leading-8 text-gray-300 w-full sm:w-3/4"
+					class="mx-auto mt-10 w-full max-w-xl text-center text-lg leading-8 text-gray-300 sm:w-3/4"
 				>
-					<div class="flex flex-col sm:flex-row gap-4">
+					<div class="flex flex-col gap-4 sm:flex-row">
 						<label for="email-address" class="sr-only">Email address</label>
 						<input
 							id="email-address"
