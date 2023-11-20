@@ -2,6 +2,8 @@
 Dev Site: https://newsletter-theta-vert.vercel.app/
 
 
+https://app.benchmarkemail.com/emails/dashboard
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
