@@ -1,6 +1,7 @@
 <script>
 	import Header from './Header.svelte';
 	import '../app.postcss';
+	import Footer from './Footer.svelte';
 </script>
 
 <div class="">
@@ -9,4 +10,6 @@
 	<main>
 		<slot />
 	</main>
+
+	<Footer />
 </div>
