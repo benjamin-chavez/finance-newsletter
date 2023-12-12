@@ -1,4 +1,6 @@
-# Newsletter
+# Finance Newsletter
+<img src="./finance-newsletter.png" />
+
 Dev Site: https://newsletter-theta-vert.vercel.app/
 
 
